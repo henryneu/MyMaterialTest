@@ -1,0 +1,3 @@
+# MyMaterialTest
+学习了几个Material Design控件而做的一个小demo，使用Glide获取网络中的信息来刷新RecyclerView中的信息。
+也是对自己这两天所学知识的一个小总结，学到东西，并做出来还是很有感觉的。
